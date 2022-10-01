@@ -13,7 +13,7 @@ React, Next.js, styled-components, Storybook.js, React Native, Expo, jQuery, Exp
 MongoDB, Mongoose, Redux, and Electron
 
 ### Tools & Platforms
-Node.js, Git, GitHub, Bitbucket, Firebase, Heroku, and WordPress
+Vercel, Node.js, Git, GitHub, Bitbucket, Firebase, Heroku, and WordPress
 
 
 ### Design
